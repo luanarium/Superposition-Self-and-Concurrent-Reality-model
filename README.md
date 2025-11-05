@@ -1,4 +1,4 @@
-# Superposition-Self-and-Concurrent-Reality-model
+# Superposition-Self and Concurrent Reality model
 
 CC BY-NC-SA 4.0
 
@@ -76,7 +76,7 @@ In this analogy, the multiplicity of experience is **just segmentation of a sing
 
 ---
 
-The **origins of The Superposition-Self and Multithreaded Reality Model** are rooted in interpretations of **quantum mechanics** and **probabilistic reality**. In quantum theory:
+The **origins of The Superposition-Self and Concurrent Reality Model** are rooted in interpretations of **quantum mechanics** and **probabilistic reality**. In quantum theory:
 
 - Particles like electrons can exist in a **superposition**—multiple states simultaneously—until they are **observed**, at which point the wavefunction collapses into a definite state.
 - The **Single Electron Theory**, proposed by Feynman and Wheeler, posits that all electrons are actually the *same* electron, zigzagging through spacetime, creating the *illusion* of multiplicity through repetition and observation.
