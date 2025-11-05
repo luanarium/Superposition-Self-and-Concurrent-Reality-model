@@ -3,6 +3,7 @@
 ***A quantum theory based mysticism that honors science, avoids pseudoscience and oversimplification, and uses metaphor—like superposition and chiaroscuro—as tools for navigating complexity, meaning, and recursive self-understanding.*** 
 
 *Disclaimer:The ideas presented here were collaboratively articulated with the assistance of ChatGPT, an AI developed by OpenAI. While the core concepts and analogies stem from my own original thoughts, the phrasing, structure, and some clarifying expansions were co-developed through interactive dialogue with the AI to better express and refine the theory.*
+
 ---
 
 > *“A framework suggesting that what we perceive as individual consciousnesses are localized collapses of a singular, superposed awareness—distributed across unique threads of experience running concurrently on a shared substrate of reality.”*
