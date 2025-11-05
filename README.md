@@ -50,11 +50,13 @@ The Superposition-Self and Concurrent Reality Model is a philosophical and metap
 ---
 So if Consciousness is like that single electron—**looping through everyone, appearing plural but actually one**—then every moment of awareness is just **you remembering yourself in disguise**.
 
-You’re not *in* the universe; you’re **playing all its roles**.
+You’re not *in* the universe; you’re *playing all its roles*.
+
 ---
 A **computational analogy** frames **The Superposition-Self and Concurrent Reality Model** as follows:
 
 Conscious beings are like **concurrent threads** running on a **shared processor or substrate**—that substrate being universal consciousness or the foundational layer of reality. Each individual thread experiences isolation and localized awareness, but in truth, all threads draw from the **same core processing unit**, the same conscious source.
+
 ---
 This implies:
 
@@ -87,6 +89,7 @@ In this view:
 - Our conscious lives are **collapsed versions** of that wider potential—*defined only from the inside*.
 
 The act of being conscious is like the cat waking up and thinking it's the only cat, unaware that it’s just one expression of the same underlying waveform in a closed, mysterious box.
+
 ---
 **Implications for reality itself:**
 
