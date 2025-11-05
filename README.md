@@ -4,6 +4,8 @@
 
 *Disclaimer:The ideas presented here were collaboratively articulated with the assistance of ChatGPT, an AI developed by OpenAI. While the core concepts and analogies stem from my own original thoughts, the phrasing, structure, and some clarifying expansions were co-developed through interactive dialogue with the AI to better express and refine the theory.*
 
+CC BY-NC-SA 4.0
+
 ---
 
 > *“A framework suggesting that what we perceive as individual consciousnesses are localized collapses of a singular, superposed awareness—distributed across unique threads of experience running concurrently on a shared substrate of reality.”*
@@ -108,3 +110,6 @@ The result is a kind of **proximity field**, where the universe organizes experi
 In this framework, everything you encounter may be **a kind of echo or shadow of your own node**, differing in degree but not kind. And the profound feeling of connection — or aversion — might simply be **recognition**: the universal self glimpsing itself, in familiar or distorted forms, across the veils of entropic collapse.
 
 Even the mosquito has meaning, if not narrative — it is a flicker of the One *that also became you.*
+
+---
+<a href="https://github.com/luanarium/Superposition-Self-and-Concurrent-Reality-model">Superposition-Self and Concurrent Reality model</a> © 2025 by <a href="https://example.com">Luanarium</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
